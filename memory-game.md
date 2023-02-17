@@ -1,5 +1,7 @@
 # Project_1_Memory_Game :thinking:
  Time to test your mental strength with the classic memory game, Concentration. This is a two-person memory game that I created and styled using HTML, CSS and Vanilla Javascript for my first project in my Software Engineering Immersive course I am taking through General Assembly. 
+ 
+[Memory Game - Live Link](https://knorth2.github.io/Project_1_Memory_Game/)
 
 ## Project Description
 * Player One will start the game. Click on a card and try to find its match. If you get a match, keep guessing. If it isn't a match, player 2 will go. The player at the end with the most matches is declared the winner! Click the restart button to play again. 
@@ -11,8 +13,6 @@
 
 
 Below is my project proposal and wireframe-I decided not to go with the presidential theme due to photo selection. I also cut the cards in half using only 12 instead of 24 cards.  I hope you enjoy it! 
-
-[Memory Game - Live Link](https://knorth2.github.io/Project_1_Memory_Game/)
 
 ## Project Desciption 
 * Presidential Memory Game is a matching game using Presidents faces. When you click a square it will flip over. If the second square you click matches it will remain face up and turn the same color indicating you matched its partner. Continue to click around and find the matching mates. When you have matched all the squares the game will alert that you have won and ask if you want to play again.
