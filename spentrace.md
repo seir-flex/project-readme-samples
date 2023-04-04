@@ -1,20 +1,17 @@
 ## Project Choice (Tell us which project you're doing!)
->Spentrace
+This app can be used for simple budgeting tool, you can enter your earnings and expenses or expected cash flow everyday and will give you your how much you owe, your available spending and how much you'll need until the next expense.
 
-## This app can be used for simple budgeting tool, you can enter your earnings and expenses or expected cash flow everyday and will give you your how much you owe, your available spending and how much you'll need until the next expense.
-> Include:<br />
-> General App Idea/Purpose<br />
 
 I myself have a hard time managing my money and I usually spend time just to get track of it. This app might help me and other people to manage their money better <br />
 
-> Models including field names and their datatypes<br />
+### Models including field names and their datatypes<br />
 - Date: Date
 - Amount: Number
 - Name: String
 - Expense: Boolean
 - Notes: String
 
-> A list of routes: <br />
+### A list of routes: <br />
 
 | Verb        | URL           | Action  | Description |
 |:---------:|:----------:|:-------:|:--------:|
